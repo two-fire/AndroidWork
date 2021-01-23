@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Aondriod_ContentProvider_Set"
